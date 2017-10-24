@@ -14,7 +14,7 @@ Execution requires the following packages
 
 Fourier Transform can be executed with the command <code>python FourierTransform.py</code>
 
-<img src = "images/FourierTransform.png" width = "50%">
+<img src = "images/FourierTransform.png">
     
 Mean Squared Error between Input Image and the inverse transform is **1.1592e-18**
 
@@ -26,7 +26,7 @@ Laplacian Pyramids can be executed with the command <code>python LaplacianPyrami
 
 **Input Image**
 
-<img src = "images/image.jpg" width = "50%">
+<img src = "images/image.jpg" width = "33.5%">
 
 **Laplacian Pyramid**
 
@@ -62,4 +62,4 @@ Edge Detectors can be executed with the command <code>python main.py</code>
 
 **Laplacian of Gaussian Edge Detector**
 
-<img src = "images/LOGSobel" width = "50%">
+<img src = "images/LOGSobel.jpg" width = "50%">
